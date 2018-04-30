@@ -7,6 +7,7 @@ h1 {
   color: #FFF9E1;
   text-transform: capitalize;
   text-align: left;
+   position: relative;
 }
 
 //Menu 
@@ -16,6 +17,7 @@ h1 {
     background-color: #6EB8E6;
     overflow: hidden;
     font-family: 'Do Hyeon', sans-serif;
+    position: absolute;
 }
 
 /* Style the links inside the navigation bar */
