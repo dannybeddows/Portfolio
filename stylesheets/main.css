@@ -8,6 +8,7 @@ h1 {
   text-transform: capitalize;
   text-align: left;
    position: relative;
+  float: left;
 }
 
 h2 {
@@ -30,7 +31,6 @@ p {
     font-family: 'Do Hyeon', sans-serif;
     position: absolute;
     float: right;
-    margin: 0, auto;
 }
 
 /* Style the links inside the navigation bar */
