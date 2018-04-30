@@ -11,12 +11,12 @@ h1 {
 }
 
 h2 {
-  color: #8A8A8A;
+  color: #5E5E5E;
 }
 
 p {
   
-  color:#8A8A8A;
+  color:#5E5E5E;
 }
 
 
@@ -52,6 +52,6 @@ p {
 
 /* Add a color to the active/current link */
 .topnav a.active {
-    background-color: #8A8A8A;
+    background-color: #5E5E5E;
     color: #FFF9E1;
 }
