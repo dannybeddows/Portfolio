@@ -18,6 +18,7 @@ h1 {
     overflow: hidden;
     font-family: 'Do Hyeon', sans-serif;
     position: absolute;
+    float: right;
 }
 
 /* Style the links inside the navigation bar */
@@ -26,7 +27,7 @@ h1 {
     color: #FFF9E1;
     text-align: center;
     padding: 10px 10px;
-    text-transform: none;
+    text-transform: lowercase;
     font-size: 17px;
     font-family: 'Do Hyeon', sans-serif;
     text-decoration: none;
