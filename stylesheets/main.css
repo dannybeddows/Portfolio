@@ -5,4 +5,6 @@ h1 {
   font-size: 54px;
   font-family: 'Do Hyeon', sans-serif;
   color: #FFE8AA;
+  text-transform: capitalize;
+  text-align: justify;
 }
