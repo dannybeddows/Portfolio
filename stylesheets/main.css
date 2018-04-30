@@ -30,6 +30,7 @@ p {
     font-family: 'Do Hyeon', sans-serif;
     position: absolute;
     float: right;
+    margin: auto;
 }
 
 /* Style the links inside the navigation bar */
