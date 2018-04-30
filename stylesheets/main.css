@@ -56,6 +56,6 @@ p {
 
 .cat {
  border-radius: 70%;
- max-width: 300px
+ max-width: 300px;
  float: left;
 }
