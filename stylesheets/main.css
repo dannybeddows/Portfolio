@@ -20,38 +20,7 @@ p {
 
 
 
-//Menu 
 
-/* Add a black background color to the top navigation */
-.topnav {
-    background-color: #6EB8E6;
-    overflow: hidden;
-    font-family: 'Do Hyeon', sans-serif;
-    float: right;
-}
-
-/* Style the links inside the navigation bar */
-.topnav a {
-    float: right;
-    color: #FFF9E1;
-    text-align: center;
-    padding: 10px 10px;
-    text-transform: lowercase;
-    font-size: 17px;
-    font-family: 'Do Hyeon', sans-serif;
-}
-
-/* Change the color of links on hover */
-.topnav a:hover {
-    background-color: #6EB8E6;
-    color: #FFF9E1;
-}
-
-/* Add a color to the active/current link */
-.topnav a.active {
-    background-color: #5E5E5E;
-    color: #FFF9E1;
-}
 
 .cat {
  border-radius: 70%;
