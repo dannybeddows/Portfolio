@@ -42,7 +42,8 @@ p {
 /* Change the color of links on hover */
 .topnav a:hover {
     background-color: transparent !important;
-    color: #AD66AB;
+    text-decoration: underline;
+    color: #6EB8E6;
 }
 
 /* Add a color to the active/current link */
