@@ -23,7 +23,7 @@ p {
     background-color: #6EB8E6;
     overflow: hidden;
     font-family: 'Do Hyeon', sans-serif;
-  font-size: 19px;
+ 
 }
 
 /* Style the links inside the navigation bar */
@@ -33,7 +33,7 @@ p {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 19px;
 }
 
 /* Change the color of links on hover */
