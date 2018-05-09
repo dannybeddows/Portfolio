@@ -22,6 +22,7 @@ p {
 .topnav {
     background-color: #6EB8E6;
     overflow: hidden;
+    font-family: 'Do Hyeon', sans-serif;
 }
 
 /* Style the links inside the navigation bar */
