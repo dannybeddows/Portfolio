@@ -16,9 +16,12 @@ h2 {
   color: #5E5E5E;
 }
 
-p {
+.text {
   
-  color: #5E5E5E;
+  color: #ffffff;
+  font-size: 54px;
+  font-family: 'Do Hyeon', sans-serif;
+  text-align: center;
 }
 
 /* Add a black background color to the top navigation */
