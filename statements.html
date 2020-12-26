@@ -21,6 +21,30 @@
         <link id="theme-style" rel="stylesheet" href="style.css">
     </head>
     <body>
-        <h1>Here is my If / For / While Statements</h1>
+        <nav>
+              <ul class="nav-links">
+                <li><a href="file:///Volumes/Data%20Drive/Users/danielbeddows/Sites/GitHub/p2/Portfolio/index.html"><small>home</small></a></li>
+              </ul>
+              <div class="burger">
+              <div class="line1"></div>
+              <div class="line2"></div>
+              <div class="line3"></div>
+              </div>
+          </nav>
+        <h2>Here is my If Else / Else If Statements</h2>
+        <br></br>
+        <p>(Inline JS)</p>
+        <div id="output"></div>
+        <script>
+            let hour = window.prompt("What's the time Mr Wolf?");
+            if (hour < 9) {
+                document.getElementById("output").innerHTML = "<h1>Hmmm It's still quite early!</h1>";
+            } else if (isNaN(hour))    {
+                document.getElementById("output").innerHTML = "<h1>Stop being a smartarse and use numbers only!</h1>";
+            } else {
+                document.getElementById("output").innerHTML = "<h1>DINNERTIME!</h1>";
+            }
+        </script>
     </body>
+    <script src="/Volumes/Data Drive/Users/danielbeddows/Sites/GitHub/p2/Portfolio/app.js"></script>
 </html>
