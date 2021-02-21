@@ -1,3 +1,4 @@
+// This is the code for the mobile Hamburglar menu
 const navSlide = () => {
     const burger = document.querySelector('.burger');
     const nav = document.querySelector('.nav-links');

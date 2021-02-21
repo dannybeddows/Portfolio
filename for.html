@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Daniel Beddows Work Portfolio</title>
+        <title>For Loop Fun | Daniel Beddows Portfolio</title>
     
         <!-- Meta -->
         <meta charset="utf-8">
@@ -31,20 +31,21 @@
               <div class="line3"></div>
               </div>
           </nav>
-        <h2>Here is my If Else / Else If Statement</h2>
+        <h2>Here is my For Loop</h2>
         <br></br>
         <p>(Inline JS)</p>
         <div id="output"></div>
         <script>
-            let hour = window.prompt("What's the time Mr Wolf?");
-            if (hour < 9) {
-                document.getElementById("output").innerHTML = "<h1>Hmmm It's still quite early!</h1>";
-            } else if (isNaN(hour))    {
-                document.getElementById("output").innerHTML = "<h1>Stop being a smartarse and use numbers only!</h1>";
-            } else {
-                document.getElementById("output").innerHTML = "<h1>DINNERTIME!</h1>";
-            }
+         let text = "";   
+         let i = 0;
+         for (i = 0; i < 13; i++) {
+             text += "<h3>On the  " + i + "  day of Xmas - my true love gave to me.</h3><br> </br>";
+         }
+
+         document.getElementById("output").innerHTML = text;
+
+
+
         </script>
     </body>
     <script src="/Volumes/Data Drive/Users/danielbeddows/Sites/GitHub/p2/Portfolio/app.js"></script>
-</html>
